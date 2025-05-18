@@ -6,7 +6,7 @@
 
 ## 🎓 About Me
 
-I'm a third-semester Informatics student at Universitas Islam Indonesia with a near-perfect GPA (3.94/4.00). I specialize in web development, machine learning, and cybersecurity. Currently working as a Laboratory Assistant at ITSC and passionate about creating innovative solutions that make a difference.
+I'm a third-semester Informatics student at Universitas Islam Indonesia. I specialize in web development and machine learning. Currently working as a Laboratory Assistant at ITSC and passionate about creating innovative solutions that make a difference.
 
 ## 🏆 Achievements
 
