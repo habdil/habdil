@@ -6,7 +6,7 @@
 
 ## 🎓 About Me
 
-I'm a third-semester Informatics student at Universitas Islam Indonesia. I specialize in web development and machine learning. Currently working as a Laboratory Assistant at ITSC and passionate about creating innovative solutions that make a difference.
+I'm a third-semester Informatics student at Universitas Islam Indonesia. I specialize in web development and machine learning.
 
 ## 🏆 Achievements
 
