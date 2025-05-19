@@ -6,7 +6,7 @@
 
 ## 🎓 About Me
 
-I'm a third-semester Informatics student at Universitas Islam Indonesia. I specialize in web development and machine learning.
+I'm a Informatics student at Universitas Islam Indonesia. I specialize in web development and machine learning.
 
 ## 🏆 Achievements
 
